@@ -1,2 +1,2 @@
-# Proyecto-Programacion-Concurrente
-Proyecto de Programación Concurrent (basado en el de Sistemas Operativos),
+# Proyecto Programacion Concurrente
+Proyecto de Programación Concurrente para diseñar un sistema distribuído con prioridades y gestión de interbloqueo clásico de lectores y escritores.
